@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, nice to meet you 👋
 
 
 I am a Computer Science and Engineering student at Politecnico di Milano and I am **currently working on my Master Thesis about Anomaly Detection**.  
