@@ -1,4 +1,4 @@
-# <div align="center">Hi there 👋</div>
+## Hi there 👋
 
 
 I am a Computer Science and Engineering student at Politecnico di Milano and I am **currently working on my Master Thesis about Anomaly Detection**.  
@@ -10,13 +10,18 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 
 
 :computer: **Most Relevant Work Experience:**
- - IT Area Member at Jeflo - Junior Enterprise Florence | May 2016 - March 2017
- - IT Area Manager at Jeflo - Junior Enterprise Florence | March 2017 - Dec 2018
+ - IT Area Member at *Jeflo - Junior Enterprise Florence* | May 2016 - March 2017
+ - IT Area Manager at *Jeflo - Junior Enterprise Florence* | March 2017 - Dec 2018
   
   
 #### What is a Junior Enterprise?
 It's a **no-profit association of students** with the main goal of practise what we are studying.  
 The concept, as described also in [JE Website](https://juniorenterprises.it/en/), is very simple: `"A Junior Enterprise gives students the opportunity to put their theoretical knowledge into practice through the realization of projects and studies required by companies, institutions or individuals."`
+
+
+:dart: **Kaggle Competitions:**
+ - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
+ - [Recommender Systems Competition](https://github.com/manuelsalamino/RecSys_Competition)
 
 
 :pushpin: **Projects:**
@@ -26,9 +31,6 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
  - [Bachelor Thesis - 'Localizzazione di scale in planimetrie'](https://github.com/manuelsalamino/FindStairs)
  - [Email Classifier](https://github.com/manuelsalamino/EmailClassifier) - my first project on AI
 
-:dart: **Kaggle Competitions:**
- - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
- - [Recommender Systems Competition](https://github.com/manuelsalamino/RecSys_Competition)
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
