@@ -5,13 +5,13 @@ I am a Computer Science and Engineering student at Politecnico di Milano and I a
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree. I had to thank the course of Artifical Intelligence for this because it allowed me to discover this beautiful field that was unknown to me.  
 
 :mortar_board: **Education:**
- - Bachelor of Science in Computer Engineering at `Università Degli Studi di Firenze`
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
+ - Bachelor of Science in Computer Engineering at `Università Degli Studi di Firenze`
 
 
 :computer: **Most Relevant Work Experience:**
- - IT Area Member at *Jeflo - Junior Enterprise Florence* | May 2016 - March 2017
  - IT Area Manager at *Jeflo - Junior Enterprise Florence* | March 2017 - Dec 2018
+ - IT Area Member at *Jeflo - Junior Enterprise Florence* | May 2016 - March 2017
   
   
 #### What is a Junior Enterprise?
