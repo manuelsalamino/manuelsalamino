@@ -19,7 +19,7 @@ It's a **no-profit association of students** with the main goal of practise what
 The concept, as described also in [JE Website](https://juniorenterprises.it/en/), is very simple: `"A Junior Enterprise gives students the opportunity to put their theoretical knowledge into practice through the realization of projects and studies required by companies, institutions or individuals."`
 --->
 
-:dart: **Kaggle Competitions:**
+:dart: **Kaggle Competitions Repo:**
  - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
  - [Recommender Systems Competition](https://github.com/manuelsalamino/RecSys_Competition)
 
@@ -33,7 +33,7 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/){:target="_blank"}
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
 - `manuelsalamino@gmail.com`
 
 
