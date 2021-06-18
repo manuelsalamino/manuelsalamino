@@ -8,7 +8,7 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Engineering at `Università Degli Studi di Firenze`
 
-
+<!---
 :computer: **Most Relevant Work Experience:**
  - IT Area Manager at *Jeflo - Junior Enterprise Florence* | March 2017 - Dec 2018
  - IT Area Member at *Jeflo - Junior Enterprise Florence* | May 2016 - March 2017
@@ -17,7 +17,7 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 #### What is a Junior Enterprise?
 It's a **no-profit association of students** with the main goal of practise what we are studying.  
 The concept, as described also in [JE Website](https://juniorenterprises.it/en/), is very simple: `"A Junior Enterprise gives students the opportunity to put their theoretical knowledge into practice through the realization of projects and studies required by companies, institutions or individuals."`
-
+--->
 
 :dart: **Kaggle Competitions:**
  - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
