@@ -33,7 +33,7 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/){:target="_blank"}
 - `manuelsalamino@gmail.com`
 
 
