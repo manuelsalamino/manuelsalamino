@@ -1,7 +1,7 @@
 ## Hi there, nice to meet you 👋
 
 
-I am a Computer Science and Engineering student at Politecnico di Milano and I am **currently working on my Master Thesis about Anomaly Detection**.  
+I'm Manuel Salamino and I'm a Computer Science and Engineering student at Politecnico di Milano. I'm **currently working on my Master Thesis about Anomaly Detection**.  
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree. I had to thank the course of Artifical Intelligence for this because it allowed me to discover this beautiful field that was unknown to me.  
 
 :mortar_board: **Education:**
