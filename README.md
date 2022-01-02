@@ -1,7 +1,7 @@
 ## Hi there, nice to meet you 👋
 
 
-I'm Manuel Salamino and I'm a Computer Science and Engineering student at Politecnico di Milano. I'm **currently working on my Master Thesis about Anomaly Detection**.  
+I'm Manuel Salamino and I'm a Computer Science and Engineering Graduate at Politecnico di Milano. I just graduated with a **Master Thesis about Anomaly Detection**, called [**Anomaly Detection via Isolation Forest Embedding**](https://github.com/manuelsalamino/Master-Thesis).
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree. I had to thank the course of Artifical Intelligence for this because it allowed me to discover this beautiful field that was unknown to me.  
 
 :mortar_board: **Education:**
@@ -25,6 +25,7 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 
 
 :pushpin: **Projects:**
+ - [Master Thesis - 'Anomaly Detection via Isolation Forest Embedding'](https://github.com/manuelsalamino/Master-Thesis)
  - [Spotify Top30 Analysis](https://github.com/manuelsalamino/Spotify_Top30_Analysis)
  - [Social Influence & Pricing](https://github.com/manuelsalamino/Data_Intelligence_App)
  - [Distributed Job Scheduling](https://github.com/manuelsalamino/Distributed_Job_Scheduling)
@@ -39,8 +40,8 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 
 :boy: **About me:**
 
-- 🔭 I’m currently working on Master Thesis on Anomaly Detection
 - 🌱 I’m currently learning how to get prepared for a job interview
+- 🔭 I worked on Anomaly Detection field during my Master Thesis
 - :musical_note: I listen a lot of music
 - :running: I do a lot of sport
-- :cocktail: I worked as bartender in wedding and birthday parties during my bachelor degree
+- :cocktail: I worked as bartender in wedding and birthday parties during my Bachelor's and Master's Degree
