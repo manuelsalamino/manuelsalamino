@@ -1,7 +1,7 @@
 ## Hi there, nice to meet you 👋
 
 
-I'm Manuel Salamino and I'm a Computer Science and Engineering Graduate at Politecnico di Milano. I just graduated with a **Master Thesis about Anomaly Detection**, called [**Anomaly Detection via Isolation Forest Embedding**](https://github.com/manuelsalamino/Master-Thesis).
+I'm Manuel Salamino and I'm a Computer Science and Engineering Graduate at Politecnico di Milano. I just graduated with a **Master Thesis** about **Anomaly Detection**, called [**Anomaly Detection via Isolation Forest Embedding**](https://github.com/manuelsalamino/Master-Thesis).
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree. I had to thank the course of Artifical Intelligence for this because it allowed me to discover this beautiful field that was unknown to me.  
 
 :mortar_board: **Education:**
