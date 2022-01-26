@@ -20,8 +20,8 @@ The concept, as described also in [JE Website](https://juniorenterprises.it/en/)
 --->
 
 :dart: **Kaggle Competitions Repo:**
- - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
  - [Recommender Systems Competition](https://github.com/manuelsalamino/RecSys_Competition)
+ - [Artificial Neural Networks and Deep Learning Competition](https://github.com/manuelsalamino/ANNDL_Competition)
 
 
 :pushpin: **Projects:**
