@@ -1,5 +1,9 @@
 ## Hi there, nice to meet you 👋
 
+##### About This Repository
+This GitHub repository is a showcase of the projects I've worked on during my time at `Politecnico di Milano` and `Università Degli Studi di Firenze`, where I studied `Computer Science and Engineering`. These projects represent the skills and knowledge I developed during my studies in areas such as **data science**, **machine learning**, **data visualization** and **software development**.
+
+----
 
 I'm Manuel Salamino and I'm a Computer Science and Engineering Graduate at Politecnico di Milano. I just graduated with a **Master Thesis** about **Anomaly Detection**, called [**Anomaly Detection via Isolation Forest Embedding**](https://github.com/manuelsalamino/Master-Thesis).
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree. I had to thank the course of Artifical Intelligence for this because it allowed me to discover this beautiful field that was unknown to me.  
